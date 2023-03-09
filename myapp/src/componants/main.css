@@ -1,0 +1,25 @@
+.mar{
+  display:flex;
+}
+.distance{
+  margin-left:450px;
+}
+.text-area{
+  margin-left:20%;
+  margin-top:10%;
+}
+textarea{
+    padding-right:500px;
+  padding-bottom:200px;
+}
+
+.Capital{
+  padding:5px;
+  background-color:blue;
+  color:white;
+  
+}
+
+.length{
+  margin-left:20%;
+}
